@@ -8,7 +8,8 @@ public class AddressBookTest {
         Scanner sc = new Scanner(System.in);
         AddressBook.welcomeMsg();
         
-        // Creating an instance of AddressBook
+        // Creating an instance of AddressBook 
+        
         AddressBook addressBook = new AddressBook();
         
         // Calling method to manage AddressBook operations
